@@ -2,6 +2,4 @@
 
 
 Vedio:
-
-
 Uploading News-App.mp4…
